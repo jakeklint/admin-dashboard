@@ -26,7 +26,7 @@ header {
 
 .new-order th,
 .new-order td {
-  padding: 15px; /* This adds space between the border and the content */
+  /* This adds space between the border and the content */
   text-align: left;
   border: 1px solid black;
 }
